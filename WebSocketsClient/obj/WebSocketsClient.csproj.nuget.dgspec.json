@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/WebSocketsClient.csproj": {}
+  },
+  "projects": {
+    "/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/WebSocketsClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/WebSocketsClient.csproj",
+        "projectName": "WebSocketsClient",
+        "projectPath": "/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/WebSocketsClient.csproj",
+        "packagesPath": "/home/cannonjw/.nuget/packages/",
+        "outputPath": "/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cannonjw/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

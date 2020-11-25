@@ -1,0 +1,16 @@
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/bin/Debug/net5.0/WebSocketsClient
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/bin/Debug/net5.0/WebSocketsClient.deps.json
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/bin/Debug/net5.0/WebSocketsClient.runtimeconfig.json
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/bin/Debug/net5.0/WebSocketsClient.runtimeconfig.dev.json
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/bin/Debug/net5.0/WebSocketsClient.dll
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/bin/Debug/net5.0/ref/WebSocketsClient.dll
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/bin/Debug/net5.0/WebSocketsClient.pdb
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.csprojAssemblyReference.cache
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.AssemblyInfoInputs.cache
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.AssemblyInfo.cs
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.csproj.CoreCompileInputs.cache
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.dll
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/ref/WebSocketsClient.dll
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.pdb
+/home/cannonjw/Projects/LearningSignalR_Course/WebSocketsClient/obj/Debug/net5.0/WebSocketsClient.genruntimeconfig.cache
